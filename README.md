@@ -1,0 +1,4 @@
+specr
+=====
+
+for R specialisation
